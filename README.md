@@ -1,6 +1,6 @@
  AdNabu QA Assignment
 
-This repository contains the solution for the Quality Assurance Engineer assignment provided by AdNabu. :contentReference[oaicite:0]{index=0}
+This repository contains the solution for the Quality Assurance Engineer assignment provided by AdNabu. 
 
 ## Assignment Overview
 
